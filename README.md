@@ -6,16 +6,30 @@ PC
 Anaconda - Python 3.7
 ## Algorithm: 
 ### Step 1: 
+Get the values from the user
 ### Step 2: 
+Assign the variable with a value
 ### Step 3: 
 Get the value from the user for the number of rotation
 ### Step 4: 
 Using the slicing concept rotate the list
-
 ### Step 5: 
-### Step 6: 
+Run the program and check the output 
 ## Program:
+```
+Developed by :R.Mahalakshmi
+Register no. :212223230117
+
+def circulate():
+     l=eval(input())
+     n=int(input())
+     l=l[n: ]+l[ :n]
+     print("After circulating the values are:",l)
+```
 
 ## Output:
 
+![Screenshot 2024-03-18 184353](https://github.com/Maharavi2006/Circulate-the-values-of-N-variables/assets/154535981/05014eb5-87da-4c82-b084-d1ae06ff02d0)
+
 ## Result:
+The output for the given program circulate the values of n variables is successfully obtained.
