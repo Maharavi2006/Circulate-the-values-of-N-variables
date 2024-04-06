@@ -29,7 +29,8 @@ def circulate():
 
 ## Output:
 
-![Screenshot 2024-03-18 184353](https://github.com/Maharavi2006/Circulate-the-values-of-N-variables/assets/154535981/05014eb5-87da-4c82-b084-d1ae06ff02d0)
+![image](https://github.com/Maharavi2006/Circulate-the-values-of-N-variables/assets/154535981/d1570206-9738-4f07-bd20-799e984e71b7)
+
 
 ## Result:
 The output for the given program circulate the values of n variables is successfully obtained.
